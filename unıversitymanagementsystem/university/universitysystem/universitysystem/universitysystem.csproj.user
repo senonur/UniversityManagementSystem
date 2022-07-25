@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="akademikpersonel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="akademikpersoneldüzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="akademikpersonelekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="birimekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bolumekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bolumekleduzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dersekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dersekleduzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="derssecimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="derssinavlistesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fakulteduzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fakulteekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="idaripersonel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="idaripersonelduzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="idaripersonelekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="notekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrencibelge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrencibilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrencibilgileriduzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Unvan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

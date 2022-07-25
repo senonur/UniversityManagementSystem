@@ -1,0 +1,94 @@
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.exe
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.deps.json
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.runtimeconfig.json
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.runtimeconfig.dev.json
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.dll
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\ref\universitysystem.dll
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.pdb
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.csproj.AssemblyReference.cache
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.akademikpersonelekle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.bolumekle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.dersekle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.fakulteekle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.Form1.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.idaripersonel.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.idaripersonelekle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.ogrenci.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.ogrencibelge.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.ogrencibilgileri.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.csproj.GenerateResource.cache
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.AssemblyInfoInputs.cache
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.AssemblyInfo.cs
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.csproj.CoreCompileInputs.cache
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.dll
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\ref\universitysystem.dll
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.pdb
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.genruntimeconfig.cache
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.akademikpersonel.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.derssecimi.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.derssinavlistesi.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.Properties.Resources.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.akademikpersoneldüzenle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.bolumekleduzenle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.dersekleduzenle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.fakulteduzenle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.idaripersonelduzenle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.ogrencibilgileriduzenle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.csproj.CopyComplete
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.birimekle.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.Unvan.resources
+C:\Users\Onur Şen\OneDrive\Masaüstü\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.notekle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.exe
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.deps.json
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.runtimeconfig.json
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.runtimeconfig.dev.json
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.dll
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\ref\universitysystem.dll
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\universitysystem.pdb
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.csproj.AssemblyReference.cache
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.akademikpersonel.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.akademikpersoneldüzenle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.akademikpersonelekle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.birimekle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.bolumekle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.bolumekleduzenle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.dersekle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.dersekleduzenle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.derssecimi.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.derssinavlistesi.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.fakulteduzenle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.fakulteekle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.Form1.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.idaripersonel.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.idaripersonelduzenle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.idaripersonelekle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.notekle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.ogrenci.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.ogrencibelge.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.ogrencibilgileri.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.ogrencibilgileriduzenle.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.Properties.Resources.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.Unvan.resources
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.csproj.GenerateResource.cache
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.AssemblyInfoInputs.cache
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.AssemblyInfo.cs
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.csproj.CoreCompileInputs.cache
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.csproj.CopyComplete
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.dll
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\ref\universitysystem.dll
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.pdb
+C:\Users\PC3EĞİTMEN\Desktop\İŞKUR-AKŞAM GRUBU BİREYSEL PROJE\ONUR\unıversitymanagementsystem\university\universitysystem\universitysystem\obj\Debug\net5.0-windows\universitysystem.genruntimeconfig.cache
